@@ -13,5 +13,6 @@ public class hello {
 		System.out.println("Master1");
 		System.out.println("C10");
 		System.out.println("C20");
+		System.out.println("C30");
 	}
 }
