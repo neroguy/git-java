@@ -11,6 +11,12 @@ public class hello {
 		System.out.println("D3");
 		System.out.println("D4");
 		System.out.println("Master1");
+<<<<<<< HEAD
 		System.out.println("Master2");
+=======
+		System.out.println("C10");
+		System.out.println("C20");
+		System.out.println("C30");
+>>>>>>> Idea
 	}
 }
