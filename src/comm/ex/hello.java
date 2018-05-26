@@ -8,5 +8,6 @@ public class hello {
 		System.out.println("D1");
 		System.out.println("D2");
 		System.out.println("D3");
+		System.out.println("D3");
 	}
 }
